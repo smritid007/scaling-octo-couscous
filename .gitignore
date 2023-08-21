@@ -1,0 +1,4 @@
+tells which files or folders to ignore in a project.
+Tracked, untracked or ignored files. Tracked: staged and committed, untracked: not staged not committed
+
+Sensitive data, system-specific, binaries, plugins.... will get back to what files to ignore and why
